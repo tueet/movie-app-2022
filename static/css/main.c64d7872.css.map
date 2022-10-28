@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c64d7872.css","mappings":"AAAA,KACE,wBACF,CACA,cACE,wBACF","sources":["Movie.css"],"sourcesContent":["body {\r\n  background-color: #f2f2f2;\r\n}\r\n.movie__title {\r\n  background-color: lightblue;\r\n}\r\n"],"names":[],"sourceRoot":""}
